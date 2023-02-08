@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 from PIL import Image
-import plotly.express as px
+#import plotly.express as px
 import numpy as np
 
 base = "http://ec2-18-204-11-80.compute-1.amazonaws.com:5000"
