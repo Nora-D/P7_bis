@@ -5,8 +5,8 @@ from PIL import Image
 import plotly.express as px
 import numpy as np
 
-#base = "http://172.104.245.43"
-base = 'http://127.0.0.1:5000'
+base = "http://ec2-18-204-11-80.compute-1.amazonaws.com:5000/"
+#base = 'http://127.0.0.1:5000'
 
 
 st.write('''# Bienvenue,
